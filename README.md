@@ -4,4 +4,4 @@ Client work. The source code is private.
 
 [seniacagency.com](https://seniacagency.com/)
 
-![SENIAC homepage](screenshot.png)
+<img src="screenshot.png" alt="SENIAC homepage" width="100%">
